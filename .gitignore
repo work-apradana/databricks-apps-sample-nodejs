@@ -1,6 +1,6 @@
 # databricks cli script
 sync-cmd.sh
-deploy-cmd.sh
+# deploy-cmd.sh
 
 # node modules
 node_modules/
